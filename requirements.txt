@@ -1,0 +1,8 @@
+# Installation for main.py
+
+pandas >= 2.2.2
+nltk == 3.8.1
+sklearn == 1.5.1
+
+# For stemmer.py
+re >= 2.2.1
